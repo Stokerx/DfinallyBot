@@ -1,0 +1,26 @@
+{
+  "name": "dfinallybot",
+  "version": "1.0.0",
+  "description": "prototype botdiscord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stokerx/DfinallyBot.git"
+  },
+  "author": "Stokerx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stokerx/DfinallyBot/issues"
+  },
+  "homepage": "https://github.com/Stokerx/DfinallyBot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
